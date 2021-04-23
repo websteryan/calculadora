@@ -2,7 +2,7 @@
     package="com.example.mobile_app">
    <application
         android:label="mobile_app"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@res/drawable/icon.png">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
