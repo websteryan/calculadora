@@ -77,7 +77,7 @@ class Memory {
   _calc() {
     switch (_op) {
       case '%':
-        return _buffer[0] % _buffer[1];
+        return (_buffer[0] / _buffer[1]) * 100;
       case '/':
         return _buffer[0] / _buffer[1];
       case 'x':
