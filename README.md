@@ -1,2 +1,2 @@
 
-Calculadora feita com Flutter.
+Calculator with Flutter
