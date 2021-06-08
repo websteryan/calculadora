@@ -1,7 +1,7 @@
 # Calculadora
 
  Calculadora feita em **Flutter**
-![Logo](https://www.pngitem.com/pimgs/m/95-950230_logo-flutter-png-transparent-png.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
 
     
 ## Author
